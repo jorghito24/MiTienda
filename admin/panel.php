@@ -153,6 +153,7 @@ $modulo = $_REQUEST['modulo'] ?? '';
         <!-- /.sidebar-menu -->
       </div>
       <!-- /.sidebar -->
+      
     </aside>
     <?php
     if (isset($_REQUEST['mensaje'])) {
